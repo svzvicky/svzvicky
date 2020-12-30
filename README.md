@@ -1,4 +1,4 @@
-### Hi,I am Vignesh 👋 💻
+### Hello, I am Vignesh 👋 💻
 
 I am a software engineer who is eager to build software solutions to solve the problems of the society.
 
@@ -8,7 +8,7 @@ I am a software engineer who is eager to build software solutions to solve the p
 You can find me around the web 🌎: 
 - Email: svzvicky@gmail.com
 
-!--
+<!--
 **svzvicky/svzvicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
