@@ -72,8 +72,8 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-svzvicky%40yourmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svzvicky@yourmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-kandasamy)  
+[![Email](https://img.shields.io/badge/Email-svzvicky%40yourmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachvignesh@hotmail.com)
 
 ---
 
